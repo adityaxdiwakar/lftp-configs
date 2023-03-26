@@ -1,0 +1,6 @@
+[submodule "lftp-ministry"]
+	path = lftp-ministry
+	url = https://github.com/adityaxdiwakar/lftp-ministry
+[submodule "lftp-diwakars"]
+	path = lftp-diwakars
+	url = https://github.com/adityaxdiwakar/lftp-diwakars
